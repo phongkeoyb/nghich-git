@@ -8,3 +8,5 @@ git init
 git add <tenfile/thumuc>
 git add -A
 git commit -m "Noi dung ghi chu"
+git log
+git log --oneline
